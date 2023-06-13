@@ -1,1 +1,1 @@
-# Java-Sprint-Boot-Fundamental
+# Java-Spring-Boot-Fundamental
